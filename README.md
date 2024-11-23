@@ -160,6 +160,7 @@ Add DynamicMapTitle measure in title under visualization ,general tab.
                                  UNICHAR(9660) & " " & FORMAT(YoYchange,"0%"))
                                  return print
 
+![report](https://github.com/user-attachments/assets/9f3eef0e-1a1d-4bb6-983a-3e0d03c165f1)
 
 
 
